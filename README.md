@@ -4,7 +4,7 @@
 ## 📊 Ссылки на интерактивные дашборды (Yandex DataLens)
 Результаты исследования визуализированы в двух дашбордах:
 1. **[Дашборд 1: Общий анализ доходов регионов](https://datalens.yandex/48h7b9ehdnpin?_share_link=public)**
-2. **[Дашборд 2: Анализ доходов регионов по годам](https://datalens.yandex/48h7b9ehdnpin?_share_link=public)**
+2. **[Дашборд 2: Анализ доходов регионов по годам](https://datalens.yandex/nuo15qsxllag6?_share_link=public)**
 
 ## 📁 Структура репозитория
 * **`processed_data/`** — Исходные данные, полученные по техническому заданию;
